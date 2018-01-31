@@ -5,7 +5,7 @@ A replacement of the often used google maps api with an open source one using Op
 
 osmdroid
 --------
-This project consists mainly of [osmdroid](http://code.google.com/p/osmdroid/).
+This project consists mainly of [osmdroid](https://github.com/osmdroid/osmdroid).
 ###License
 osmdroid is licensed under the GNU Lesser GPL
 > This program is free software: you can redistribute it and/or modify
